@@ -1,2 +1,2 @@
 # SEmoLLM
-The code for SEmoLLM
+After peer review, the code will be open-sourced.
